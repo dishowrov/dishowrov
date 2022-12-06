@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Din Islam Showrov</h1>
 <h3 align="center">A passionate web designer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=din-islam-sh1&label=Profile%20views&color=0e75b6&style=flat" alt="din-islam-sh1" /> </p>
 
 - 🔭 I’m currently working with an agency called [Times IT](https://timesit.org/)
 
@@ -13,9 +12,9 @@
 
 - 💬 Ask me about **HTML, Bootstrap, SASS, Tailwind CSS, jQuery, JavaScript**
 
-- 📫 You can reach me **din_islam_sh1@outlook.com**
+- 📫 You can reach me through **din_islam_sh1@outlook.com**
 
-- ⚡ Special fact **I think I'm curious, happy, patient...**
+- ⚡ Special facts are **I think I'm curious, happy, patient...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
