@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/din_islam_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="din_islam_sh1" height="30" width="40" /></a>
 <a href="https://fb.com/din.islam.sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="din.islam.sh1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinislamsh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinislamsh1" height="30" width="40" /></a>
 <a href="https://instagram.com/din_islam_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="din_islam_sh1" height="30" width="40" /></a>
 <a href="https://dribbble.com/din_islam_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="din_islam_sh1" height="30" width="40" /></a>
 <a href="https://www.behance.net/din_islam_sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="din_islam_sh1" height="30" width="40" /></a>
