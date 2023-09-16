@@ -3,13 +3,10 @@
 
 <br>
 
-- 🔭 I’m currently working with an agency called [Times IT](https://timesit.org/)
 
 - 👯 I’m looking to collaborate on **Your project 🥰**
 
 - 🤝 I’m looking to help **others - who wants help**
-
-- 👨‍💻 My projects are available at [itsdin.top](itsdin.top)
 
 - 💬 Ask me about **HTML, Bootstrap, SASS, Tailwind CSS, jQuery, JavaScript**
 
